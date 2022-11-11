@@ -1,5 +1,5 @@
 /*   STEP 1   */
-export const leagueID = "872639801076133888"; // your league ID
+export const leagueID = "872624540340133888"; // your league ID
 export const leagueName = "10$ BB Auction. Keepin it 💯 V11"; // your league name
 export const dues = 100; // (optional) used in template constitution page
 export const dynasty = false; // true for dynasty leagues, false for redraft and keeper
